@@ -1,4 +1,3 @@
 pydub
 argparse
 openai-whisper
-python-dotenv
